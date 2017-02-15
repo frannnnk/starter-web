@@ -9,4 +9,6 @@ Sample website with plenty of files for demos
 ## Purpose New
 
 
-The thire time editing
+The third time editing
+
+The fourth time editing and correct some wrong spelling.
