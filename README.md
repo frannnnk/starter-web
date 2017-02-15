@@ -16,4 +16,4 @@ The fourth time editing and correct some wrong spelling.
 
 fice edit
 
-COPYRIGHT
+COPYRIGHT 2017 rebasing example
