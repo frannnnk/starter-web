@@ -19,3 +19,7 @@ fice edit
 COPYRIGHT 2017 rebasing example
 
 add this in myfeathure.
+
+--
+
+add new 
